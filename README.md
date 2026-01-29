@@ -19,6 +19,8 @@ Consistent contributor across full-stack, backend, and AI-focused repositories.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lavanitha&show_icons=true&hide_title=true"/>
 </p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=lavanitha&theme=onedark)
+
 
 ---
 
