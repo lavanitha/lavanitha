@@ -104,13 +104,13 @@ Consistent contributor across full-stack, backend, and AI-focused repositories.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavanitha&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanitha&show_icons=true&hide_title=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanitha&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanitha&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanitha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanitha" />
 </p>
