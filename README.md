@@ -17,7 +17,7 @@ Consistent contributor across full-stack, backend, and AI-focused repositories.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lavanitha&theme=flat&no-frame=true&margin-w=15&column=6" alt="GitHub achievements"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanitha&show_icons=true&hide_title=true"/>
 </p>
 
 ---
