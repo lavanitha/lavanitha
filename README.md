@@ -59,7 +59,6 @@ Focused on building scalable systems through full-stack engineering, AI integrat
 <a href="https://codeforces.com/profile/lavanitha"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
 <a href="https://www.leetcode.com/hh7zzkilbi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/lavanithaofx2rs"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
-<a href="https://www.topcoder.com/members/600034"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40"/></a>
 </p>
 
 ---
@@ -75,7 +74,6 @@ Focused on building scalable systems through full-stack engineering, AI integrat
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/icon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
