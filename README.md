@@ -105,10 +105,7 @@ Consistent contributor across full-stack, backend, and AI-focused repositories.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanitha&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=lavanitha&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=lavanitha&type=contributions&theme=ocean" />
