@@ -39,7 +39,9 @@ Focused on building scalable systems through full-stack engineering, AI integrat
   lavanitha.officialdesk@gmail.com
 
 - **Resume:**  
-  https://drive.google.com/file/d/1_aZYXT41pt_abm0mcbijpwdMi8hzm2SV/view?usp=sharing
+  ## 📄 Resume
+
+**[View My Resume](https://drive.google.com/file/d/1_aZYXT41pt_abm0mcbjpwdMi8hzm2SV/view?usp=sharing)**
 
 ---
 
