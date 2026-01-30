@@ -75,7 +75,6 @@ Focused on building scalable systems through full-stack engineering, AI integrat
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/icon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
