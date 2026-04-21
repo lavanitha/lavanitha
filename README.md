@@ -86,37 +86,39 @@ Focused on building scalable systems through full-stack engineering, AI integrat
 </table>
 
 ---
-
 ## Technical Stack
 
 <table width="100%">
   <tr>
-    <td align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45" alt="angular"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="45" alt="angularjs"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" alt="react"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="45" alt="vuejs"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="css3"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" alt="figma"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" alt="flutter"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" alt="docker"/>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="java"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="python"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" alt="pytorch"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" alt="nodejs"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" alt="express"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="postman"/>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="mongodb"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="mysql"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" alt="postgresql"/>
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45" alt="mariadb"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" alt="oracle"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" alt="firebase"/>
-    </td>
+    <td align="center" width="20%"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45"/><br/>Angular</td>
+    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/><br/>React</td>
+    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="45"/><br/>Vue.js</td>
+    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/><br/>Node.js</td>
+    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/><br/>Express</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/><br/>Java</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br/>Python</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/><br/>PyTorch</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/><br/>Flutter</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/><br/>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/><br/>MongoDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/><br/>MySQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="45"/><br/>MariaDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/><br/>Oracle</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/><br/>Firebase</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/><br/>Figma</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br/>Postman</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/><br/>CSS3</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="45"/><br/>AngularJS</td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Statistics
