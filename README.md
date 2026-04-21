@@ -47,19 +47,43 @@ Focused on building scalable systems through full-stack engineering, AI integrat
 
 ## Professional Profiles
 
-<p align="left">
-<a href="https://dev.to/mary_lavanithasunder_336"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/mary-lavanitha-sunder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/30449207"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
-<a href="https://codesandbox.com/lavanitha_official"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40"/></a>
-<a href="https://kaggle.com/marylavanithasunder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-<a href="https://www.behance.net/lavani-11eee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/></a>
-<a href="https://www.codechef.com/users/lavanitha12"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/lavanitha_offic1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
-<a href="https://codeforces.com/profile/lavanitha"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
-<a href="https://www.leetcode.com/hh7zzkilbi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/lavanithaofx2rs"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://dev.to/mary_lavanithasunder_336"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/mary-lavanitha-sunder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/30449207"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://codesandbox.com/lavanitha_official"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://kaggle.com/marylavanithasunder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://www.behance.net/lavani-11eee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/lavanitha12"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/lavanitha_offic1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/lavanitha"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://www.leetcode.com/hh7zzkilbi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="35"/></a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/lavanithaofx2rs"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="35"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
